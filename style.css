@@ -466,7 +466,7 @@ body {
 .footer-lower-legal {
   display: flex;
   justify-content: center;
-  color: rgb(180, 157, 199, 0.5);
+  color: rgb(180, 157, 199, 0.4);
   font-size: 15px;
 }
 
@@ -476,5 +476,5 @@ body {
 }
 
 .footer-lower-legal a {
-  color: rgb(180, 157, 199, 0.5);
+  color: rgb(180, 157, 199, 0.4);
 }
