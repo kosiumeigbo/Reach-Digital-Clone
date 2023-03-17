@@ -107,12 +107,8 @@ body {
   align-items: center;
 }
 
-.header-text-container h2:nth-child(2) {
-  width: 50%;
-}
-
-.header-text-container h2:nth-child(4) {
-  margin-bottom: 50px;
+.header-text-container h2 {
+  margin-bottom: 30px;
 }
 
 .header-text-container p {
